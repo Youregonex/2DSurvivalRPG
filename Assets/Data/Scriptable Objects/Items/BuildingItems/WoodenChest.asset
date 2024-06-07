@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b153f723a964e4d4086ab904504c0132, type: 3}
+  m_Name: WoodenChest
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  ItemName: Wooden chest
+  Description: Chest made of wood
+  MaxStackSize: 5
+  Icon: {fileID: 21300000, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
+  ItemType: 0
+  ItemPrefab: {fileID: 3451820063667796838, guid: 90ea00eb1bb524d8c8412d09527d676c,
+    type: 3}
+  durability: 0
+  size: 0
